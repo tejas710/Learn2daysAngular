@@ -1,0 +1,36 @@
+.signup-form {
+  min-width: 150px;
+  width: 80%;
+ 
+  display: inline-flex;
+  flex-direction: column;
+}
+.signup-div {
+  min-width: 150px;
+  width: 100%;
+ 
+  display: inline-block;
+  text-align: center;
+}
+
+.signup-full-width {
+  width: 100%;
+}
+
+.signup-button-width {
+  width: 20%;
+}
+
+
+.sign-rootdiv{
+  background: #FF8F5E;
+}
+label{
+    text-align: left;
+    color: black;
+    font-weight: 500;
+}
+
+agm-map {
+  height: 300px;
+}
